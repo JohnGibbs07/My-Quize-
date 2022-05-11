@@ -1,3 +1,9 @@
+#Background1{
+  background-image: url("background2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 
 
 .Navbar {
@@ -20,11 +26,24 @@ background-color: #dc1780;
 color: white;
 padding:50px;
   }
+
 #MQ {
-font-size: 48px;
+font-size: 58px;
 margin-bottom: 30px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#header2 {
+  text-align: center;
+  background-color: #dc1780;
+  color: white;
+  padding:40px;
+    }
+  #MQ2 {
+  font-size: 58px;
+  margin-bottom: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
 
   .Navbar a {
     float: left;
@@ -35,7 +54,6 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
   
-
   .Navbar a:hover {
     background-color: rgba(123, 186, 241, 0.942);
     color: black;
@@ -67,9 +85,28 @@ height: 100%;
 }
 
 #footer{
-    background-color: rgb(77, 155, 240);
+    background-color: rgb(77, 115, 240);
     position: relative;
     height: 100px;
     margin-top: -100px;
     clear: both;
 }
+
+.container{
+background-color: rgba(127, 255, 246, 0.762);
+width: 70%;
+margin: 0 auto; 
+max-width: 1000px;
+font-size: 50px;
+border-radius: 3%;
+border-color: black;
+}
+
+.booknot{
+font-family: Arial, Helvetica, sans-serif;
+ font-size: 40px;
+  }
+
+  #Notes{
+    margin: auto;
+  }
