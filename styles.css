@@ -5,6 +5,12 @@
   background-size: 100% 100%;
 }
 
+#Background2{
+  background-image: url("image\ 1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 
 .Navbar {
     background-color: rgb(173, 131, 244);
@@ -91,7 +97,7 @@ height: 100%;
     margin-top: -100px;
     clear: both;
 }
-
+/*this is thr rule div container and styles */
 .container{
 background-color: rgba(127, 255, 246, 0.762);
 width: 70%;
@@ -110,3 +116,10 @@ font-family: Arial, Helvetica, sans-serif;
   #Notes{
     margin: auto;
   }
+/*this is thr rule div containerstyles end*/
+#footer{
+  text-align: center;
+  font-style: oblique;
+  color: #f2f2f2;
+  font-size: 25px;
+}
