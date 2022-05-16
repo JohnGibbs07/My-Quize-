@@ -1,19 +1,19 @@
 //Question bank
 var questionBank= [
     {
-        question : 'Eritrea, which became the 182nd member of the UN in 1993, is in the continent of',
-        option : ['Asia','Africa','Europe','Australia'],
-        answer : 'Africa'
+        question : 'When was Comabat Evolved released onto the xbox',
+        option : ['15 december 2001','15 November 2001','15 November 2002','15 december 2002'],
+        answer : '15 November 2001'
     },
     {
-        question : 'Garampani sanctuary is located at',
-        option : ['Junagarh, Gujarat','Diphu, Assam','Kohima, Nagaland','Gangtok, Sikkim'],
-        answer : 'Diphu, Assam'
+        question : 'What is the name of Batmans butler?',
+        option : ['sir Alfred pennyworth','Alfred Smith','Alfred Pennyworth','Alfred Jackson'],
+        answer : 'Alfred Pennyworth'
     },
     {
-        question : 'For which of the following disciplines is Nobel Prize awarded?',
-        option : ['Physics and Chemistry','Physiology or Medicine','Literature, Peace and Economics','All of the above'],
-        answer : 'All of the above'
+        question : 'Which classic horror film stars a serial killer dressed as William Shatner? ',
+        option : ['Halloween','Chucky','Hellraiser','Friday the 13th'],
+        answer : 'Halloween'
     },
     {
         question : 'Hitler party which came into power in 1933 is known as',
