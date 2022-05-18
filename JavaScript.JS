@@ -7,7 +7,7 @@ var questionBank= [
     },
     {
         question : 'What is the name of Batmans butler?',
-        option : ['sir Alfred pennyworth','Alfred Smith','Alfred Pennyworth','Alfred Jackson'],
+        option : ['Sir Alfred pennyworth','Alfred Smith','Alfred Pennyworth','Alfred Jackson'],
         answer : 'Alfred Pennyworth'
     },
     {
@@ -16,14 +16,29 @@ var questionBank= [
         answer : 'Halloween'
     },
     {
-        question : 'Hitler party which came into power in 1933 is known as',
-        option : ['Labour Party','Nazi Party','Ku-Klux-Klan','Democratic Party'],
-        answer : 'Nazi Party'
+        question : 'Who is the most famous video game character of all time?',
+        option : ['Sonic','Lara Croft','Mario','Master Cheif'],
+        answer : 'Mario'
     },
     {
-        question : 'First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in',
-        option : ['1967','1968','1958','1922'],
-        answer : '1967'
+        question : 'Whats the best selling video game console of all time?',
+        option : ['Ps4','Xbox 360','Xbox one','Ps2'],
+        answer : 'Ps2'
+    },
+    {
+        question : 'Who is the only person ever to receive an Oscar nomination for acting in a Star Wars movie?',
+        option : ['Alec Guinness','Ewan Mcgregor','Carrie Fisher','Hayden Christensen'],
+        answer : 'Alec Guinness'
+    },
+    {
+        question : ' Which movie has a scene of two seconds of footage that took months to create?',
+        option : ['Preditor 2 ','Tranformers: Revenge Of The Fallen','Spider man 2 ','Mad Max'],
+        answer : 'Transformers: Revenge Of The Fallen'
+    },
+    {
+        question : 'Whats the best selling video game console of all time?',
+        option : ['Ps4','Xbox 360','Xbox one','Ps2'],
+        answer : 'Ps2'
     }
 ]
 
