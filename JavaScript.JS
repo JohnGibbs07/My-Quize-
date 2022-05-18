@@ -32,13 +32,18 @@ var questionBank= [
     },
     {
         question : ' Which movie has a scene of two seconds of footage that took months to create?',
-        option : ['Preditor 2 ','Tranformers: Revenge Of The Fallen','Spider man 2 ','Mad Max'],
+        option : ['Preditor 2 ','Transformers: Revenge Of The Fallen','Spider man 2 ','Mad Max'],
         answer : 'Transformers: Revenge Of The Fallen'
     },
     {
-        question : 'Whats the best selling video game console of all time?',
-        option : ['Ps4','Xbox 360','Xbox one','Ps2'],
-        answer : 'Ps2'
+        question : 'Which 1976 classic movie was just shot in 28 days?',
+        option : ['King Kong','The Shootlist','Rockey','The Blue Bird'],
+        answer : 'Rockey'
+    },
+    {
+        question : 'How many people sing in the opening song to Skyrim?',
+        option : ['10','20','30','40'],
+        answer : '30'
     }
 ]
 
