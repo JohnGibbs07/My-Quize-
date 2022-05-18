@@ -44,6 +44,11 @@ var questionBank= [
         question : 'How many people sing in the opening song to Skyrim?',
         option : ['10','20','30','40'],
         answer : '30'
+    },
+    {
+        question : 'Which popular horror film was inspired by real events that took place in Gainesville, Florida in the early 90s?',
+        option : ['Halloween 7: The Haunting','Crawl','Lake placid','Scream'],
+        answer : 'Scream'
     }
 ]
 
