@@ -1,3 +1,4 @@
+// WEB HUB chanel is where i found this template 
 //Question bank
 var questionBank= [
     {
@@ -50,7 +51,7 @@ var questionBank= [
         option : ['Halloween 7: The Haunting','Crawl','Lake placid','Scream'],
         answer : 'Scream'
     }
-]
+ ];
 
 var question= document.getElementById('question');
 var quizContainer= document.getElementById('quiz-container');
@@ -101,7 +102,7 @@ function nextQuestion(){
     else{
         points.innerHTML= score+ '/'+ questionBank.length;
         quizContainer.style.display= 'none';
-        scoreboard.style.display= 'block'
+        scoreboard.style.display= 'block';
     }
 }
 
